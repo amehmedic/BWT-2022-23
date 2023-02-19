@@ -1,0 +1,22 @@
+{
+  "name": "bwt22178-st",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primjer2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://amehmedic1@bitbucket.org/amehmedic1/bwt22178-st.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/amehmedic1/bwt22178-st/issues"
+  },
+  "homepage": "https://bitbucket.org/amehmedic1/bwt22178-st#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

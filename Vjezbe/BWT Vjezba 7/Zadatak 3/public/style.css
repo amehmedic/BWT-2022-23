@@ -1,0 +1,29 @@
+.okvir
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 30%;
+}
+
+.nazivStranica
+{
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+#Stranica1
+{
+    color: blue;
+    text-decoration: underline;
+}
+
+#Stranica2
+{
+    color: blue;
+    text-decoration: underline;
+}
+
+#Stranica3
+{
+    color: blue;
+    text-decoration: underline;
+}

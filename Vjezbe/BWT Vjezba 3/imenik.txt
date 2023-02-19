@@ -1,0 +1,6 @@
+Ime, Prezime, Adresa, Broj_Telefona
+Amer, Mehmedic, Adresa, 5325234
+Amer, Mehmedic2, Adresa2, 32324523
+Amer, Mehmedic3, Adresa3, 5343d332
+Amer, Mehmedic4, Adresa4, 64363745
+Amer, Mehmedic5, Adresa5, 84565344

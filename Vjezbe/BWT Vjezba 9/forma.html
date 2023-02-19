@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forma</title>
+  </head>
+  <body>
+    <form
+      style="display: flex; flex-direction: column; justify-content: center; width: 300px"
+      method="POST"
+      action="http://localhost:3000/imenik"
+    >
+      <label for="imePrezime">Ime I Prezime</label>
+      <input name="imePrezime" id="imePrezime" />
+
+      <label for="adresa">Adresa</label>
+      <input name="adresa" id="adresa" />
+
+      <label for="brojTelefona">Broj Telefona</label>
+      <input name="brojTelefona" id="brojTelefona" />
+
+      <button id="submit" onclick="submit()">Submit</button>
+    </form>
+  </body>
+</html>
